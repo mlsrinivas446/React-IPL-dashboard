@@ -2,7 +2,6 @@ import './index.css'
 
 const LatestMatch = props => {
   const {latestMatchData} = props
-  console.log(latestMatchData)
   const {
     competingTeam,
     date,
